@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+out/
+_TestResults/
+TestResults/
+
+# VS/IDE
+.vs/
+*.user
+*.suo
+
+
+# Misc
+*.DS_Store
+Thumbs.db

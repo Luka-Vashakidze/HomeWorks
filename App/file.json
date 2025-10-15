@@ -1,0 +1,105 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "cardDetails": {
+      "cardNumber": "1234567890123456",
+      "expirationDate": "12/25",
+      "CVC": "123"
+    },
+    "pinCode": "1111",
+    "balances": {
+      "GEL": 957.20,
+      "USD": 212.50,
+      "EUR": 73.00
+    },
+    "transactionHistory": [
+      {
+        "transactionDate": "2025-10-15 16:54:43",
+        "transactionType": "Deposit",
+        "amountGEL": 12,
+        "amountUSD": 0,
+        "amountEUR": 0
+      }
+    ]
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Vashakidze",
+    "cardDetails": {
+      "cardNumber": "4567123412345678",
+      "expirationDate": "06/26",
+      "CVC": "987"
+    },
+    "pinCode": "2222",
+    "balances": {
+      "GEL": 1120.00,
+      "USD": 50.75,
+      "EUR": 260.00
+    },
+    "transactionHistory": []
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Peterson",
+    "cardDetails": {
+      "cardNumber": "1111222233334444",
+      "expirationDate": "09/25",
+      "CVC": "456"
+    },
+    "pinCode": "3333",
+    "balances": {
+      "GEL": 780.30,
+      "USD": 0.00,
+      "EUR": 115.90
+    },
+    "transactionHistory": []
+  },
+  {
+    "firstName": "Nika",
+    "lastName": "Kapanadze",
+    "cardDetails": {
+      "cardNumber": "9999888877776666",
+      "expirationDate": "03/27",
+      "CVC": "321"
+    },
+    "pinCode": "4444",
+    "balances": {
+      "GEL": 2200.10,
+      "USD": 600.00,
+      "EUR": 0.00
+    },
+    "transactionHistory": []
+  },
+  {
+    "firstName": "Salome",
+    "lastName": "Beridze",
+    "cardDetails": {
+      "cardNumber": "5432109876543210",
+      "expirationDate": "11/26",
+      "CVC": "159"
+    },
+    "pinCode": "1233",
+    "balances": {
+      "GEL": 40.00,
+      "USD": 9.20,
+      "EUR": 20.00
+    },
+    "transactionHistory": [
+      {
+        "transactionDate": "2025-10-15 16:57:15",
+        "transactionType": "ChangePIN",
+        "amountGEL": 0,
+        "amountUSD": 0,
+        "amountEUR": 0
+      },
+      {
+        "transactionDate": "2025-10-15 16:57:27",
+        "transactionType": "Convert GEL-\u003EUSD",
+        "amountGEL": 10,
+        "amountUSD": 3.70,
+        "amountEUR": 0
+      }
+    ]
+  }
+]
